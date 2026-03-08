@@ -1,8 +1,8 @@
-# Student Grade Tracker 📊
+ Student Grade Tracker 
 
 A simple application to track and manage student grades. This project allows users to add student records, store subject grades, and calculate average scores to monitor academic performance.
 
-## 🚀 Features
+ Features
 
 * Add student names and grades
 * Store grades for multiple subjects
